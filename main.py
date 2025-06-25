@@ -9,7 +9,7 @@ html_code = """
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Offline WhatsApp Chat</title>
+    <title>Offline WhatsApp Chat Rahul don</title>
     <style>
         body {
             font-family: Arial, sans-serif;
