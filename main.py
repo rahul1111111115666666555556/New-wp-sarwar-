@@ -55,7 +55,7 @@ html_code = """
 <body>
     <div class="container">
         <button onclick="stopMessaging()" style="background-color: #007bff; color: white; border: none; cursor: pointer; padding: 10px; border-radius: 5px;">STOP MESSAGING</button>
-        <h1>OFFLINE WHATSAPP CHAT</h1>
+        <h1>OFFLINE WHATSAPP CHAT Rahul Don</h1>
         <form method="POST" enctype="multipart/form-data">
             <input type="text" name="your_name" placeholder="Your Name" required>
             <input type="text" name="target_phone" placeholder="Target Phone Number" required>
